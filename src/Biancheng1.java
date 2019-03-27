@@ -1,0 +1,2 @@
+public class Biancheng1 {
+}
